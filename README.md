@@ -10,9 +10,7 @@
 
 | 프로젝트 | 상태 | 설명 | 기술 |
 | --- | --- | --- | --- |
-| [**Folio**](https://github.com/heavy-strong/startxend-note) | 🟢 개발 중 | macOS·iPhone·웹에서 쓰는 한국어 개인 노트 앱. 위키 링크·백링크·그래프·명령 팔레트 지원 | Electron, Vite, SwiftUI |
-| [**school-meal-extension**](https://github.com/heavy-strong/school-meal-extension) | 🔵 유지보수 | 전국 초·중·고 급식을 바로 보는 웨일·크롬 확장 프로그램 | TypeScript, React |
-| **업무 프로젝트** | 🟢 운영 중 | ERP · API 서버 · 지점별 웹사이트 개발 및 운영 (비공개) | |
+| **업무 프로젝트** | 🟢 운영 중 | ERP · API 서버 · 웹사이트 개발 및 운영 (비공개) | |
 
 <br>
 
